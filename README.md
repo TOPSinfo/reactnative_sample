@@ -19,14 +19,15 @@
 
 # UI controls
 
-- View
-- Flatlist
-- Text
-- Pressable
-- Scrollview
-- Button
-- Textinput
-- Activity Indicator
+- Custom Buttons: Fully customizable buttons with animations.
+- Swipeable Cards: Intuitive card swipe functionality for interactions.
+- Modal Popups: Responsive modals for alerts and custom dialogs.
+- Loader Overlays: Loading spinners integrated with API call states.
+- Tab Navigation: Sleek tab bars with dynamic icons and transitions.
+- Date & Time Pickers: User-friendly pickers for selecting dates and times with modern UI designs.
+- Dropdown Menus: Flexible dropdowns for multi-option selection with customizable appearance.
+- Animated Headers: Scroll-responsive headers that collapse or expand based on user interactions.
+- Pull-to-Refresh Control: A classic refresh gesture that updates the content on the screen.
 
 ## Learn More
 
